@@ -1,3 +1,4 @@
+package ProyectoFinalSemUno.src;
 import java.util.Scanner;
 	
 public class GgG {
