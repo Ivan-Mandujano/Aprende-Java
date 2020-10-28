@@ -28,7 +28,7 @@ public class Problema1{
         mayor=0;
         mayor2=0;
         for(int n=0;n<8;n++){
-            if(elemento[n]>36 && elemento[n]<50){
+            if(elemento[n]>36){
                 mayor= mayor + elemento[n];
             }else{
                 if(elemento[n]>50){
