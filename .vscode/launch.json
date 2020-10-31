@@ -1,0 +1,693 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Clase1<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto1.src.Clase1",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-P191<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto1.src.P191",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problema1<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto1.src.Problema1",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Cinco<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto11.src.Cinco",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Crsiete<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto11.src.Crsiete",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Cuatro<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto11.src.Cuatro",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Dos<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto11.src.Dos",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ochopinocho<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto11.src.Ochopinocho",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Seis<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto11.src.Seis",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Uno<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto11.src.Uno",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-tres<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto11.src.tres",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Empleado<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto14.src.Empleado",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Operaciones<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto14.src.Operaciones",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problema1<Aprende Java_f0ac7b53>(1)",
+            "request": "launch",
+            "mainClass": "Proyecto16.Problema1",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problema2<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto16.Problema2",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problema3<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto16.Problema3",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problema4<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto16.Problema4",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SuperficieCuadrado<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto3.src.SuperficieCuadrado",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SumayProducto<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto4.src.SumayProducto",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DosNumeros<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto7.src.DosNumeros",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EstructuraCondicionalSimple<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto7.src.EstructuraCondicionalSimple",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NotasdeAlumno<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto7.src.NotasdeAlumno",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problema1<Aprende Java_f0ac7b53>(2)",
+            "request": "launch",
+            "mainClass": "Proyecto7.src.Problema1",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UnoOdos<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto7.src.UnoOdos",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Porcentaje<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto8.src.Porcentaje",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Positivo<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto8.src.Positivo",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problema1<Aprende Java_f0ac7b53>(3)",
+            "request": "launch",
+            "mainClass": "Proyecto8.src.Problema1",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Promedio<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto8.src.Promedio",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TresCifras<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto8.src.TresCifras",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Cinco<Aprende Java_f0ac7b53>(1)",
+            "request": "launch",
+            "mainClass": "Proyecto9.src.Cinco",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Dos<Aprende Java_f0ac7b53>(1)",
+            "request": "launch",
+            "mainClass": "Proyecto9.src.Dos",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Seis<Aprende Java_f0ac7b53>(1)",
+            "request": "launch",
+            "mainClass": "Proyecto9.src.Seis",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Siete<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto9.src.Siete",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Tres<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto9.src.Tres",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-cuatro<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto9.src.cuatro",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-uno<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Proyecto9.src.uno",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GgG<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "ProyectoFinalSemUno.src.GgG",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Uno<Aprende Java_f0ac7b53>(1)",
+            "request": "launch",
+            "mainClass": "ProyectoFinalSemUno.src.Uno",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CrSiete<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "ProyectoX.src.CrSiete",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Programa<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "ProyectoX.src.Programa",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Seis<Aprende Java_f0ac7b53>(2)",
+            "request": "launch",
+            "mainClass": "ProyectoX.src.Seis",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Uno<Aprende Java_f0ac7b53>(2)",
+            "request": "launch",
+            "mainClass": "ProyectoX.src.Uno",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-cinco<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "ProyectoX.src.cinco",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-cuatro<Aprende Java_f0ac7b53>(1)",
+            "request": "launch",
+            "mainClass": "ProyectoX.src.cuatro",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-dos<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "ProyectoX.src.dos",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-tres<Aprende Java_f0ac7b53>(1)",
+            "request": "launch",
+            "mainClass": "ProyectoX.src.tres",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Sala<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "Salario.src.Sala",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Uno<Aprende Java_f0ac7b53>(3)",
+            "request": "launch",
+            "mainClass": "Showcase.Uno",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Sueldo<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "SueldoOperario.src.Sueldo",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-asdf<Aprende Java_f0ac7b53>",
+            "request": "launch",
+            "mainClass": "SueldoOperario.src.asdf",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GgG<FINALPROYECTSEMANA1 (2)>",
+            "request": "launch",
+            "mainClass": "GgG",
+            "projectName": "FINALPROYECTSEMANA1 (2)"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Uno<FINALPROYECTSEMANA1 (2)>",
+            "request": "launch",
+            "mainClass": "Uno",
+            "projectName": "FINALPROYECTSEMANA1 (2)"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Dos<Proyecto Iphone12>",
+            "request": "launch",
+            "mainClass": "Dos",
+            "projectName": "Proyecto Iphone12"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Uno<Proyecto Iphone12>",
+            "request": "launch",
+            "mainClass": "Uno",
+            "projectName": "Proyecto Iphone12"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Cinco<Proyecto11>",
+            "request": "launch",
+            "mainClass": "Cinco",
+            "projectName": "Proyecto11"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Crsiete<Proyecto11>",
+            "request": "launch",
+            "mainClass": "Crsiete",
+            "projectName": "Proyecto11"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Cuatro<Proyecto11>",
+            "request": "launch",
+            "mainClass": "Cuatro",
+            "projectName": "Proyecto11"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Dos<Proyecto11>",
+            "request": "launch",
+            "mainClass": "Dos",
+            "projectName": "Proyecto11"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ochopinocho<Proyecto11>",
+            "request": "launch",
+            "mainClass": "Ochopinocho",
+            "projectName": "Proyecto11"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Seis<Proyecto11>",
+            "request": "launch",
+            "mainClass": "Seis",
+            "projectName": "Proyecto11"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Uno<Proyecto11>",
+            "request": "launch",
+            "mainClass": "Uno",
+            "projectName": "Proyecto11"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-tres<Proyecto11>",
+            "request": "launch",
+            "mainClass": "tres",
+            "projectName": "Proyecto11"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Empleado<Proyecto14>",
+            "request": "launch",
+            "mainClass": "Empleado",
+            "projectName": "Proyecto14"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Operaciones<Proyecto14>",
+            "request": "launch",
+            "mainClass": "Operaciones",
+            "projectName": "Proyecto14"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Clase1<Proyecto1>",
+            "request": "launch",
+            "mainClass": "Clase1",
+            "projectName": "Proyecto1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-P191<Proyecto1>",
+            "request": "launch",
+            "mainClass": "P191",
+            "projectName": "Proyecto1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problema1<Proyecto1>",
+            "request": "launch",
+            "mainClass": "Problema1",
+            "projectName": "Proyecto1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SuperficieCuadrado<Proyecto3>",
+            "request": "launch",
+            "mainClass": "SuperficieCuadrado",
+            "projectName": "Proyecto3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SumayProducto<Proyecto4>",
+            "request": "launch",
+            "mainClass": "SumayProducto",
+            "projectName": "Proyecto4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DosNumeros<Proyecto7>",
+            "request": "launch",
+            "mainClass": "DosNumeros",
+            "projectName": "Proyecto7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EstructuraCondicionalSimple<Proyecto7>",
+            "request": "launch",
+            "mainClass": "EstructuraCondicionalSimple",
+            "projectName": "Proyecto7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NotasdeAlumno<Proyecto7>",
+            "request": "launch",
+            "mainClass": "NotasdeAlumno",
+            "projectName": "Proyecto7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problema1<Proyecto7>",
+            "request": "launch",
+            "mainClass": "Problema1",
+            "projectName": "Proyecto7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UnoOdos<Proyecto7>",
+            "request": "launch",
+            "mainClass": "UnoOdos",
+            "projectName": "Proyecto7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Porcentaje<Proyecto8>",
+            "request": "launch",
+            "mainClass": "Porcentaje",
+            "projectName": "Proyecto8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Positivo<Proyecto8>",
+            "request": "launch",
+            "mainClass": "Positivo",
+            "projectName": "Proyecto8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problema1<Proyecto8>",
+            "request": "launch",
+            "mainClass": "Problema1",
+            "projectName": "Proyecto8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Promedio<Proyecto8>",
+            "request": "launch",
+            "mainClass": "Promedio",
+            "projectName": "Proyecto8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TresCifras<Proyecto8>",
+            "request": "launch",
+            "mainClass": "TresCifras",
+            "projectName": "Proyecto8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Cinco<Proyecto9>",
+            "request": "launch",
+            "mainClass": "Cinco",
+            "projectName": "Proyecto9"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Dos<Proyecto9>",
+            "request": "launch",
+            "mainClass": "Dos",
+            "projectName": "Proyecto9"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Seis<Proyecto9>",
+            "request": "launch",
+            "mainClass": "Seis",
+            "projectName": "Proyecto9"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Siete<Proyecto9>",
+            "request": "launch",
+            "mainClass": "Siete",
+            "projectName": "Proyecto9"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Tres<Proyecto9>",
+            "request": "launch",
+            "mainClass": "Tres",
+            "projectName": "Proyecto9"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-cuatro<Proyecto9>",
+            "request": "launch",
+            "mainClass": "cuatro",
+            "projectName": "Proyecto9"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-uno<Proyecto9>",
+            "request": "launch",
+            "mainClass": "uno",
+            "projectName": "Proyecto9"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CrSiete<ProyectoX>",
+            "request": "launch",
+            "mainClass": "CrSiete",
+            "projectName": "ProyectoX"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Programa<ProyectoX>",
+            "request": "launch",
+            "mainClass": "Programa",
+            "projectName": "ProyectoX"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Seis<ProyectoX>",
+            "request": "launch",
+            "mainClass": "Seis",
+            "projectName": "ProyectoX"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Uno<ProyectoX>",
+            "request": "launch",
+            "mainClass": "Uno",
+            "projectName": "ProyectoX"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-cinco<ProyectoX>",
+            "request": "launch",
+            "mainClass": "cinco",
+            "projectName": "ProyectoX"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-cuatro<ProyectoX>",
+            "request": "launch",
+            "mainClass": "cuatro",
+            "projectName": "ProyectoX"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-dos<ProyectoX>",
+            "request": "launch",
+            "mainClass": "dos",
+            "projectName": "ProyectoX"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-tres<ProyectoX>",
+            "request": "launch",
+            "mainClass": "tres",
+            "projectName": "ProyectoX"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Sala<Salario>",
+            "request": "launch",
+            "mainClass": "Sala",
+            "projectName": "Salario"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SueldoOperario/Sueldo<SueldoOperario>",
+            "request": "launch",
+            "mainClass": "SueldoOperario/Sueldo",
+            "projectName": "SueldoOperario"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SueldoOperario/asdf<SueldoOperario>",
+            "request": "launch",
+            "mainClass": "SueldoOperario/asdf",
+            "projectName": "SueldoOperario"
+        }
+    ]
+}
