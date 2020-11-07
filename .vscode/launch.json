@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Problema1",
+            "request": "launch",
+            "mainClass": "Proyecto24.Problema1",
+            "projectName": "Aprende Java_f0ac7b53"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Problema2",
             "request": "launch",
             "mainClass": "Proyecto23.Problema2",
