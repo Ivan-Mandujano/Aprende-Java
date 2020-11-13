@@ -41,14 +41,12 @@ public class Problema1 {
     }
     public void imprimir2(){
         System.out.println("La temperatura promedio de los paises es ");
-        for(int n=0;n<paises.length;n++){
+        for(int n=0;n<3;n++){
             System.out.print(paises[n]);
-            for(int f=0;f<3; f++){
-                System.out.print("-");
-                System.out.println(promedio[f]);
+            System.out.print("-");
+            System.out.println(promedio[n]);
             }
         }
-    }
     public void mayor(){
         int may=promedio[0];
         String nom=paises[0];
